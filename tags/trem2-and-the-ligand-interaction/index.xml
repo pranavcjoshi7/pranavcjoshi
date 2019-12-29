@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TREM2 and the ligand interaction | Pranav Joshi</title>
+    <link>/tags/trem2-and-the-ligand-interaction/</link>
+      <atom:link href="/tags/trem2-and-the-ligand-interaction/index.xml" rel="self" type="application/rss+xml" />
+    <description>TREM2 and the ligand interaction</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>@Pranav Joshi 2019</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>TREM2 and the ligand interaction</title>
+      <link>/tags/trem2-and-the-ligand-interaction/</link>
+    </image>
+    
+    <item>
+      <title>TREM2</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,46 @@
+﻿---
+abstract: The impact of stress on brain structure and function is influenced by a variety of factors including the duration and type of the stressor as well as age and sex of the animal. In particular, chronic stress alters the functioning of a number of circuitries in brain causing various neuropsychiatric disorders including depression, anxiety and related mental illness. The epidemiological data suggest women are more affected by depression and related mood disorders than men and so this work was initiated to uncover the molecular basis of sex difference in the etiology of depression and related disorders using mouse Chronic Unpredictable Mild Stress (CUMS) model. The investigation has been done on the Prefrontal Cortex (PFC) region of mouse brain as the study in this region is still at an early stage despite of the fact that this area is one of the implicated area in depression.
+In order to uncover the differential molecular mechanisms mediating depression and related affective disorders we used adult male, female and ovariectomized (Ovx) C57BL/6 mice. Animals were exposed to CUMS paradigm consisting diverse mild stressors (2 stressors per day) for 21 days and thereafter their depression and anxiety status were assessed via a series of behavioral tests. Finally mice were sacrificed after behavior analysis and one half of the PFC from each mouse was processed for gene expression study by Reverse Transcriptase- quantitative Polymerase Chain Reaction (RT-qPCR) while the other half for the change in protein expression by western blot. For the molecular study, we picked up the genes and their expression product proteins that belong to the classes of neurotrophic factors, neuropeptides, neuroinflammatory molecules and stress hormone receptors, which have been earlier shown to be implicated in other brain regions in depression.
+CUMS induced depression phenotype in all the groups: males, females and Ovx females. Ovx females after depression were further divided on the basis of the treatment given i.e., treated with vehicle, estrogen and progesterone. The group treated with estrogen, but not progesterone, showed significant improvement in the depression phenotype. The PFC appears to be affected due to CUMS and the changes occurring in few of the investigated genes and proteins are gender specific. The study showed that the sex difference in PFC response to chronic stress appear to be hormonally programmed. Interestingly the study uncovered a number of genes that mediate this sex difference in the differential response of the PFC, the important neural structure in the brain reward circuitry to chronic stressors. The present study also uncovers the role of each ovarian hormone in the etiology of mood disorders and suggests the need of finding out gender specific new therapeutic targets for better treatment of depression and mood related disorders in women.
+authors:
+- Pranav Chintamani Joshi
+- Sumana Chakravarty
+- Ashok Pattnaik
+date: "2015-05-11"
+doi: ""
+featured: false
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  focal_point: ""
+  preview_only: false
+projects: []
+publication: '*Journal of Source Themes, 1*(1)'
+publication_short: ""
+publication_types:
+- "8"
+publishDate: "2017-05-18T00:00:00Z"
+slides: example
+summary: 
+tags:
+- Source Themes
+title: "To uncover the molecular response of sex difference in Prefrontal cortex of mice in stress-induced depression model"
+url_code: ""
+url_dataset: ""
+url_pdf: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
+---
+
+{{% alert note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /alert %}}
+
+{{% alert note %}}
+Click the *Slides* button above to demo Academic's Markdown slides feature.
+{{% /alert %}}
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+---

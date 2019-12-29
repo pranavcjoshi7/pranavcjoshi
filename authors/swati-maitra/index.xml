@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Swati  Maitra | Pranav Joshi</title>
+    <link>/authors/swati-maitra/</link>
+      <atom:link href="/authors/swati-maitra/index.xml" rel="self" type="application/rss+xml" />
+    <description>Swati  Maitra</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>@Pranav Joshi 2019</copyright><lastBuildDate>Sun, 04 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Swati  Maitra</title>
+      <link>/authors/swati-maitra/</link>
+    </image>
+    
+    <item>
+      <title>A 2-oxa-spiro[5,4]decane scaffold displays neurotrophic, neurogenic and anti-neuroinflammatory activities with high potential for development as a versatile CNS therapeutic.</title>
+      <link>/publication/journal-article/nsreports-17/</link>
+      <pubDate>Sun, 04 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/nsreports-17/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&#39;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;supplementary-notes-can-be-added-here-including-code-and-mathhttpssourcethemescomacademicdocswritingmarkdownlatex&#34;&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
